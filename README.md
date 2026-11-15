@@ -4,7 +4,10 @@ Reverse-engineered interface notes for the TUL TH53, only supplementary informat
 
 Refer to [this repo](https://github.com/Cafe3D-RL/release/releases) for more information,
 particularly the [XDC files](https://github.com/Cafe3D-RL/release/releases/tag/th5x_series_XDC_V1.3)
-and the [voltage setting instructions](https://github.com/Cafe3D-RL/release/releases/tag/adjusting_voltage)
+and the [voltage setting instructions](https://github.com/Cafe3D-RL/release/releases/tag/adjusting_voltage).
+
+Also see [this repo](https://github.com/Dracnea/UltrascalePlusVoltageControl/blob/main/docs/th5x.md)
+for voltage setting.
 
 ## Visually Identified Components
 
